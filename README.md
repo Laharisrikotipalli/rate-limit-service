@@ -327,7 +327,7 @@ docker pull laharisri/rate-limit-service:latest
 Run container:
 
 ```
-docker run -p 3000:3000 YOUR_DOCKERHUB_USERNAME/rate-limit-service:latest
+docker run -p 3000:3000 laharisri/rate-limit-service:latest
 ```
 
 ---
