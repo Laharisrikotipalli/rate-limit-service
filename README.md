@@ -1,6 +1,9 @@
-![CI](https://github.com/YOUR_GITHUB_USERNAME/Laharisrikotipalli/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Laharisrikotipalli/rate-limit-service/actions/workflows/ci.yml/badge.svg)
+
 ![Docker Image](https://img.shields.io/docker/v/laharisri/rate-limit-service?label=Docker%20Image)
+
 ![Docker Pulls](https://img.shields.io/docker/pulls/laharisri/rate-limit-service)
+
 ![Node](https://img.shields.io/badge/node-18-green)
 
 #  Rate Limiting Microservice
